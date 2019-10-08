@@ -5,17 +5,11 @@
     { "id": 3, "title": "Post 3" },
     { "id": 1, "title": "Post 4" }
   ],
-  "posts/:id": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-    { "id": 1, "title": "Post 4" }
-  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "jirann"
+  "users": {
+    "id": "7777" , "username" : "agonzalez" , "password" : "123123alex"
   }
 }
