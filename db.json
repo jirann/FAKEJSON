@@ -1,15 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-    { "id": 1, "title": "Post 4" }
+  "items": [
+    { "id": 1, "name": "Estación Playa",      "user_id": 1 },
+    { "id": 2, "name": "Estación Los Corales",         "user_id": 1 },
+    { "id": 3, "name": "Estación Montaña",    "user_id": 2 },
+    { "id": 4, "name": "Estación Las Rosas",    "user_id": 3 },
+    { "id": 5, "name": "Estación María",    "user_id": 4 }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "users": {
-    "id": "7777" , "username" : "agonzalez" , "password" : "123123alex"
-  }
+  "profile": [
+    {"id": "1" , "username" : "wpagro" , "password" : "123123delta"},
+    {"id": "2" , "username" : "admin123" , "password" : "ZZ123delta"},
+    {"id": "3" , "username" : "usuario123" , "password" : "clave123"},
+    {"id": "4" , "username" : "agronomo1" , "password" : "agronomo1"}
+  ]
 }
