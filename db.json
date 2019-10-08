@@ -9,7 +9,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "users": {
+  "users/:id": {
     "id": "7777" , "username" : "agonzalez" , "password" : "123123alex"
   }
 }
